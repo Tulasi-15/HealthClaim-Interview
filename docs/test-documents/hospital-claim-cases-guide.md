@@ -14,4 +14,4 @@ All documents, patient identities, hospital names, registration numbers, dates, 
 | **H06** | Narmada Diagnostic & General Clinic | `H06_final_bill.pdf`<br>`H06_lab_report.pdf` | 1p (`selectable_text`)<br>1p (`selectable_text`) | Compact bill with side-block totals, unnumbered rows, explicit `0.00` discount vs. `null` absent `procedure` field, plus standalone lab report. |
 
 ## Ground Truth
-- `answer_keys.json` contains structured ground-truth records for all six cases (`H01` through `H06`), including physical page numbers, itemized charges, totals, `review_flags`, and `fixture_notes`.
+The PDF files above are synthetic examples; the original answer-key file is not included in this repository.

@@ -116,7 +116,7 @@ Percent-encode special characters in the password when using a connection URL. T
 
 ## Try a claim
 
-Sample policy wordings are in `healthcare/policy_fixtures/`. Fictional hospital bills and discharge summaries are in `healthcare/synthetic_indian_hospital_documents/` and `healthcare/synthetic_hospital_test_set_H01_H06/`. For a first walkthrough, use `Policy_SuperStar.pdf` with `H01_final_bill.pdf` and `H01_discharge_summary.pdf`.
+Sample policy wordings are in `healthcare/policy_fixtures/`. Fictional hospital bills and discharge summaries are in `docs/test-documents/`, organized into a folder for each case. For a first walkthrough, use `Policy_SuperStar.pdf` with `H01_final_bill.pdf` and `H01_discharge_summary.pdf`.
 
 1. Create a claim and upload a policy PDF.
 2. Upload a synthetic hospital bill and discharge summary for the same patient.
