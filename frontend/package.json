@@ -1,0 +1,9 @@
+{
+  "name": "healthcare-claims-ui",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": { "build": "vite build --configLoader native", "dev": "vite --configLoader native" },
+  "dependencies": { "react": "^19.0.0", "react-dom": "^19.0.0" },
+  "devDependencies": { "vite": "^7.0.0" }
+}
